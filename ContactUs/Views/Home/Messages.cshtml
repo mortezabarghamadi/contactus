@@ -1,0 +1,82 @@
+﻿@model List<ContactUs.Models.Message>
+@{
+    var counter = 1;
+}
+@{
+    var message = TempData["succsed"];
+}
+@{
+    ViewData["titel"] = "لیست پیام ها";
+}
+@section Style
+{
+    <style>
+        thead th {
+            text-align: right;
+        }
+
+        thead {
+            box-shadow: 0 0 2px 0 gray;
+            background: #0000000d;
+        }
+
+        body {
+            background-image: url('/images/bg-01.jpg');
+            background-size: cover;
+        }
+    </style>
+}
+
+@if (message !=null)
+{
+    <div class="alert alert-success">
+        شماره به درستی ثبت شد
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        error
+    </div>
+}
+
+<div class="container">
+    <div class="card mt-5">
+        <div class="card-header">
+            <h5>  لیست پیام ها @ViewData["names"]</h5>
+        </div>
+        <div class="card-body">
+            <table class="table text-right table-bordered table-hover ">
+                <thead>
+
+                    <tr>
+                        <th>
+                            #
+                        </th>
+                        <th>عنوان</th>
+                        <th>تماس با ما</th>
+                        <th>نام و نام خانوادگی</th>
+                        <th>پیام</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@counter</td>
+                            <td>@item.Subject</td>
+                            <td>
+                                <call phone-number="@item.PhoneNumber"></call>
+                            </td>
+                            <td>@item.FullName</td>
+                            <td>@item.MessageBody</td>
+                        </tr>
+
+                        counter += 1;
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

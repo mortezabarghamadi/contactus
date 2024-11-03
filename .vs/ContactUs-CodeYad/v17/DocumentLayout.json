@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\views\\home\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\views\\home\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\views\\shared\\_contactlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\views\\shared\\_contactlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\taghelpers\\phonetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\taghelpers\\phonetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|d:\\posheh darsi\\c#\\contactus-codeyad\\contactus\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9146A55-633C-42CD-A2C9-A5D342DC075E}|ContactUs\\ContactUs.csproj|solutionrelative:contactus\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ContactLayout.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Shared\\_ContactLayout.cshtml",
+              "RelativeDocumentMoniker": "ContactUs\\Views\\Shared\\_ContactLayout.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Shared\\_ContactLayout.cshtml",
+              "RelativeToolTip": "ContactUs\\Views\\Shared\\_ContactLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:30:24.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactUs\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactUs\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:47:11.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactUs\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactUs\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:10:09.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContactUs\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContactUs\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:10:06.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneTagHelper.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\TagHelpers\\PhoneTagHelper.cs",
+              "RelativeDocumentMoniker": "ContactUs\\TagHelpers\\PhoneTagHelper.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\TagHelpers\\PhoneTagHelper.cs",
+              "RelativeToolTip": "ContactUs\\TagHelpers\\PhoneTagHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:06:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ContactUs\\Models\\Message.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Models\\Message.cs",
+              "RelativeToolTip": "ContactUs\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:17.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Messages.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Home\\Messages.cshtml",
+              "RelativeDocumentMoniker": "ContactUs\\Views\\Home\\Messages.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Home\\Messages.cshtml",
+              "RelativeToolTip": "ContactUs\\Views\\Home\\Messages.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:05:26.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactUs\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContactUs\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T11:40:21.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Startup.cs",
+              "RelativeDocumentMoniker": "ContactUs\\Startup.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Startup.cs",
+              "RelativeToolTip": "ContactUs\\Startup.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAD4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:40:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ContactUs\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\ContactUs-CodeYad\\ContactUs\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ContactUs\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T11:41:33.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿@model ContactUs.Models.Message
+@{
+    ViewData["Title"] = "ثبت پیام";
+}
+<div class="container-login100" style="background-image: url('/images/bg-01.jpg')">
+    <div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54">
+        <form method="post" asp-controller="Home" asp-action="SendMessage" class="login100-form validate-form">
+            <div asp-validation-summary="All"></div>
+            <span class="login100-form-title p-b-49">
+                تماس با ما @ViewBag.message
+            </span>
+            <div class="wrap-input100 m-b-23">
+                <label asp-for="FullName" class="label-input100"></label>
+                <input asp-for="FullName" autocomplete="off" class="input100" type="text" placeholder="نام خود را وارد کنید">
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+            <div  class="wrap-input100  m-b-23">
+                <label asp-for="Subject" class="label-input100"></label>
+                <input autocomplete="off" class="input100" type="text" asp-for="Subject" placeholder="موضوع پیام خورد را بنویسید">
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+            <div class="wrap-input100  m-b-23">
+                <label asp-for="PhoneNumber" class="label-input100"></label>
+                <input autocomplete="off" class="input100" type="text" asp-for="PhoneNumber" placeholder="شماره تماس خود را وارد کنید">
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+            </div>
+            <div class="wrap-input100  m-b-23">
+                <label asp-for="ConfirmPhoneNumber" class="label-input100"></label>
+                <input autocomplete="off" class="input100" type="text" asp-for="ConfirmPhoneNumber" placeholder="شماره تماس خود را وارد کنید">
+                <span asp-validation-for="ConfirmPhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="wrap-input100  m-b-23">
+                <label asp-for="MessageBody" class="label-input100"></label>
+                <textarea autocomplete="off" class="input100" type="text" asp-for="MessageBody" placeholder="پیام خود را در این قسمت بنویسد">
+						</textarea>
+                <span asp-validation-for="MessageBody" class="text-danger"></span>
+            </div>
+            <div class="container-login100-form-btn mt-4">
+                <div class="wrap-login100-form-btn">
+                    <div class="login100-form-bgbtn"></div>
+                    <button bold type="submit" class="login100-form-btn">
+                        ارسال
+                    </button>
+                </div>
+            </div>
+            <a class="btn btn-success" asp-controller="Home" asp-action="Privacy" asp-route-name="Mohammad">Send</a>
+        </form>
+    </div>
+</div>
+@section Scripts
+{
+    <script src="/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
