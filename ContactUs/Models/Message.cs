@@ -8,7 +8,7 @@ namespace ContactUs.Models
         [Required(ErrorMessage = "{0} را وارد کنید")]
         public string FullName { get; set; }
 
-        [Display(Name = "موضوع پیام")]
+        [Display(Name = "عنوان پیام")]
         [Required(ErrorMessage = "{0} را وارد کنید")]
         public string Subject { get; set; }
 
